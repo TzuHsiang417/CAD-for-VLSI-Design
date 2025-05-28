@@ -21,11 +21,11 @@ PA3_107501019.exe testX.eqn output_file
 ```
 
 ## Checker
-**Step 1:**  
+#### Step 1: 
 Download the entire ABC tool package from:
 https://github.com/berkeley-abc/abc
 
-**Step 2:**  
+#### Step 2:  
 After extracting the files, place the folder on the workstation.
 ```sh
 cd abc-master/
@@ -36,7 +36,7 @@ make
 ```
 You will see the program begin compiling various modules. It's normal to encounter a few "Permission denied" messages initially.
 
-**Step 3:**  
+#### Step 3: 
 Once the compilation is complete, you can launch the ABC program by running the corresponding executable.
 ```sh
 ./abc
