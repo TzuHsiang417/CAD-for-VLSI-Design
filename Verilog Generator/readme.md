@@ -20,3 +20,7 @@ Run the program:
 ```sh
 PA1_107501019.exe cXX.bench cXX.v
 ```
+
+## Reports
+Execution Results and Report: 
+[PA1_107501019_report.pdf](PA1_107501019_report.pdf)
