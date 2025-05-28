@@ -20,6 +20,33 @@ Run the program:
 PA3_107501019.exe testX.eqn output_file
 ```
 
+## Checker
+**Step 1:**  
+Download the entire ABC tool package from:
+https://github.com/berkeley-abc/abc
+
+**Step 2:**  
+After extracting the files, place the folder on the workstation.
+```sh
+cd abc-master/
+```
+Navigate into the abc-master directory and run the make command.
+```sh
+make
+```
+You will see the program begin compiling various modules. It's normal to encounter a few "Permission denied" messages initially.
+
+**Step 3:**  
+Once the compilation is complete, you can launch the ABC program by running the corresponding executable.
+```sh
+./abc
+```
+To perform functional equivalence checking, place the two circuits to be compared on the workstation and use the cec command within ABC.
+```sh
+cec INPUT_FILE OUTPUT_FILE
+```
+If the result indicates equivalence, it means the two Boolean functions are functionally equivalent.
+
 ## Reports
 Execution Results and Report: 
 [PA3_107501019_report.pdf](PA3_107501019_report.pdf)
