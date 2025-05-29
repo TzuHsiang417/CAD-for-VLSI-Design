@@ -21,7 +21,7 @@ make clean
 ## How to excecute
 Run the program: 
 ```sh
-PA2_107501019.exe testcaseX output_file
+./PA2_107501019.exe testcaseX output_file
 ```
 
 ## Checker
