@@ -5,6 +5,9 @@ The objective of this programming assignment is two-level logic optimization, sp
   
 For more details, refer to: [2021Spring_EE6094_CAD_PA3_Logic_Opt.pdf](2021Spring_EE6094_CAD_PA3_Logic_Opt.pdf)
 
+## Program Structure and Algorithms
+<img src="https://github.com/TzuHsiang417/CAD-for-VLSI-Design/blob/main/Logic%20Optimization/picture/Program_Structure.jpg" width="50%">
+
 ## Compilation
 Run the following command to compile the project:
 ```sh
