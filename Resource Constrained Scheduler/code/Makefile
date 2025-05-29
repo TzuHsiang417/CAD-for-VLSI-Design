@@ -11,7 +11,7 @@ EXE = go
 
 # Source 
 SOURCES = $(SRC_PATH)/main.cpp  
-OBJECTS = $(BUILD_PATH)/Scheduling.exe
+OBJECTS = $(BUILD_PATH)/PA2_107501019.exe
 
 # Compiler flags
 CXXFLAG = -O3 -Wall
