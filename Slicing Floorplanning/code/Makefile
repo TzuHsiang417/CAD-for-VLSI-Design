@@ -11,7 +11,7 @@ EXE = go
 
 # Source 
 SOURCES = $(SRC_PATH)/main.cpp  
-OBJECTS = $(BUILD_PATH)/Floorplanning.exe
+OBJECTS = $(BUILD_PATH)/PA4_107501019.exe
 
 # Compiler flags
 CXXFLAG = -O3 -Wall
