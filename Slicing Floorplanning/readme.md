@@ -3,6 +3,9 @@ To minimize the chip placement area, we aim to develop an algorithm that places 
   
 For more details, refer to: [2021Spring_EE6094_CAD_PA4_Floorplanning.pdf](2021Spring_EE6094_CAD_PA4_Floorplanning.pdf)
 
+## Program Structure and Algorithms
+<img src="https://github.com/TzuHsiang417/CAD-for-VLSI-Design/blob/main/Slicing%20Floorplanning/picture/Program_Structure.jpg" width="50%">
+
 ## Compilation
 Run the following command to compile the project:
 ```sh
