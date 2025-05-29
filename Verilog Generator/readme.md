@@ -21,7 +21,7 @@ make clean
 ## How to excecute
 Run the program: 
 ```sh
-PA1_107501019.exe cXX.bench cXX.v
+./PA1_107501019.exe cXX.bench cXX.v
 ```
 
 ## Reports
