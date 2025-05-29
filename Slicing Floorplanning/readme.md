@@ -21,7 +21,7 @@ make clean
 ## How to excecute
 Run the program: 
 ```sh
-PA4_107501019.exe input.txt output_file
+./PA4_107501019.exe input.txt output_file
 ```
 
 ## Checker
