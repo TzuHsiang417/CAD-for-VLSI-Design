@@ -3,6 +3,9 @@ Due to hardware constraints, graph scheduling must take into account the resourc
   
 For more details, refer to: [2021Spring_EE6094_CAD_PA2_Scheduling.pdf](2021Spring_EE6094_CAD_PA2_Scheduling.pdf)
 
+## Program Structure and Algorithms
+<img src="https://github.com/TzuHsiang417/CAD-for-VLSI-Design/blob/main/Resource%20Constrained%20Scheduler/picture/Program_Structure.jpg" width="50%">
+
 ## Compilation
 Run the following command to compile the project:
 ```sh
