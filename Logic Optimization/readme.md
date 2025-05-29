@@ -1,5 +1,6 @@
 # Assignment 3 Logic Optimization
 The objective of logic optimization is to improve a given combinational circuit in terms of performance or area, in order to meet design constraints. This process facilitates effective technology mapping by transforming Boolean networks—often in a non-circuit form—into optimized circuit implementations that satisfy specified cost and constraint requirements.  
+The objective of this programming assignment is two-level logic optimization, specifically aiming to reduce the number of Sum-of-Product (SOP) terms. Given an unoptimized Boolean function, we are required to implement the Quine-McCluskey algorithm in C++ to simplify the function and minimize its logical complexity.  
   
 For more details, refer to: [2021Spring_EE6094_CAD_PA3_Logic_Opt.pdf](2021Spring_EE6094_CAD_PA3_Logic_Opt.pdf)
 
