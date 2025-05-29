@@ -23,7 +23,7 @@ make clean
 ## How to excecute
 Run the program: 
 ```sh
-PA3_107501019.exe testX.eqn output_file
+./PA3_107501019.exe testX.eqn output_file
 ```
 
 ## Checker
