@@ -3,6 +3,9 @@ The Verilog generator plays a crucial role in Electronic Design Automation (EDA)
   
 For more details, refer to: [2021Spring_EE6094_CAD_PA1_Verilog_Generator.pdf](2021Spring_EE6094_CAD_PA1_Verilog_Generator.pdf)
 
+## Program Structure and Algorithms
+<img src="https://github.com/TzuHsiang417/CAD-for-VLSI-Design/blob/main/Verilog%20Generator/picture/Program_Structure.jpg" width="50%">
+
 ## Compilation
 Run the following command to compile the project:
 ```sh
